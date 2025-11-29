@@ -1,1 +1,1 @@
-this repo is for git practices 
+this repo is for git practices
